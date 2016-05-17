@@ -1,2 +1,4 @@
 this is master commit
 NewCommit from local branch
+this is master commit Second
+this is master commit Third
